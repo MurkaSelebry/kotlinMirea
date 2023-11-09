@@ -14,7 +14,7 @@ fun main(args: Array<String>) {
 fun task1(){
     val N = scan.nextInt()
     val numbers = Array(N, {i -> scan.nextDouble()})
-    print("Среднее арифмитическое: ${numbers.average()}")
+    print("Среднее арифмитическоее: ${numbers.average()}")
 }
 fun task2(){
     val N = scan.nextInt()
